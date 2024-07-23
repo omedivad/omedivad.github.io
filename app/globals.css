@@ -18,16 +18,31 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.profile-img {
+  border-radius: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: xxx-large;
+}
+
+.pub-title{
+  font-size: x-large;
+}
+
+.pub-authors {
+  font-size: small;
+}
+
+.pub-journal {
+  font-size: x-small;
 }
