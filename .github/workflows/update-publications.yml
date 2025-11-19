@@ -1,0 +1,46 @@
+name: Update Publications
+
+on:
+  schedule:
+    # Run on the 1st of every month at 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches:
+      - main
+    paths:
+      - 'fetch_publications.py'
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+        
+    - name: Fetch publications
+      run: |
+        python fetch_publications.py
+        
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add publications.json
+        git diff --staged --quiet || git commit -m "Update publications from Google Scholar [skip ci]"
+        git push
+

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing",
+    "authors": "A Baldrati, D Morelli, M Cornia, M Bertini, R Cucchiara",
+    "journal": "arXiv preprint arXiv:2403.14828, 2024",
+    "year": "2024",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": "2403.14828"
+  },
+  {
+    "title": "Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing",
+    "authors": "A Baldrati, D Morelli, G Cartella, M Cornia, M Bertini, R Cucchiara",
+    "journal": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023",
+    "year": "2023",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On",
+    "authors": "D Morelli, A Baldrati, G Cartella, M Cornia, M Bertini, R Cucchiara",
+    "journal": "Proceedings of the 31th ACM International Conference on Multimedia, 2023",
+    "year": "2023",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "Parents and children: Distinguishing multimodal deepfakes from natural images",
+    "authors": "R Amoroso, D Morelli, M Cornia, L Baraldi, A Del Bimbo, R Cucchiara",
+    "journal": "arXiv preprint arXiv:2304.00500, 2023",
+    "year": "2023",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": "2304.00500"
+  },
+  {
+    "title": "Fashion-oriented image captioning with external knowledge retrieval and fully attentive gates",
+    "authors": "N Moratelli, M Barraco, D Morelli, M Cornia, L Baraldi, R Cucchiara",
+    "journal": "Sensors 23 (3), 1286, 2023",
+    "year": "2023",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "OpenFashionCLIP: Vision-and-language contrastive learning with open-source fashion data",
+    "authors": "G Cartella, A Baldrati, D Morelli, M Cornia, M Bertini, R Cucchiara",
+    "journal": "International Conference on Image Analysis and Processing, 245-256, 2023",
+    "year": "2023",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "Dress Code: High-Resolution Multi-Category Virtual Try-On",
+    "authors": "D Morelli, M Fincato, M Cornia, F Landi, F Cesari, R Cucchiara",
+    "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022",
+    "year": "2022",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "Dual-Branch Collaborative Transformer for Virtual Try-On",
+    "authors": "F Emanuele, D Morelli, M Cornia, L Baraldi, C Fabio, R Cucchiara",
+    "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022",
+    "year": "2022",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "Defect detection by a deep learning approach with active IR thermography",
+    "authors": "G Guaragnella, D Morelli, T D'Orazio, U Galietti, B Trentadue, R Marani",
+    "journal": "2022 8th International Conference on Control, Decision and Information Technologies, 2022",
+    "year": "2022",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "A convolution residual network for heating-invariant defect segmentation in composite materials inspected by lock-in thermography",
+    "authors": "D Morelli, R Marani, E D'Accardi, D Palumbo, U Galietti, T D'Orazio",
+    "journal": "IEEE Transactions on Instrumentation and Measurement 70, 1-14, 2021",
+    "year": "2021",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "FashionSearch++: Improving consumer-to-shop clothes retrieval with hard negatives",
+    "authors": "D Morelli, M Cornia, R Cucchiara",
+    "journal": "CEUR Workshop Proceedings 2947, 2021",
+    "year": "2021",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "Design of modern supply chain networks using fuzzy bargaining game and data envelopment analysis",
+    "authors": "G Cavone, M Dotoli, N Epicoco, D Morelli, C Seatzu",
+    "journal": "IEEE Transactions on Automation Science and Engineering 17 (3), 1221-1236, 2020",
+    "year": "2020",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  },
+  {
+    "title": "A game-theoretical design technique for multi-stage supply chains under uncertainty",
+    "authors": "G Cavone, M Dotoli, N Epicoco, D Morelli, C Seatzu",
+    "journal": "2018 IEEE 14th International Conference on Automation Science and Engineering, 2018",
+    "year": "2018",
+    "citations": "0",
+    "url": "https://scholar.google.com/citations?user=UJ4D3rYAAAAJ",
+    "arxiv_id": null
+  }
+]
+
